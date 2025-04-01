@@ -161,7 +161,10 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    text-align: center;
+    min-height: 100%;
+    align-items:center;
+    gap: 15px;
   }
 
   .flip-card .rolex{
